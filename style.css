@@ -1,0 +1,86 @@
+body {
+  background-color: lightblue;
+}
+
+#home-section {
+  background-color: #008080;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  padding: 4%;
+  margin: auto;
+}
+
+#about-section {
+  background-color: #6dc066;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  padding: 4%;
+  margin: auto;
+}
+
+#contact-section {
+  background-color: #ff4040;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  padding: 4%;
+  margin: auto;
+}
+
+#project-section {
+  background-color: #ff7f50;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  padding: 4%;
+  margin: auto;
+}
+
+#menu {
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+.links {
+  padding: 5px;
+}
+
+#nav {
+  font-size: 25px;
+  background-color: green;
+  border: 2px;
+  color: white;
+}
+
+#button {
+  border: 2px solid black;
+}
+
+#projectLinks {
+  margin: 50px;
+  padding: 50px;
+  width: auto;
+  height: auto;
+}
+
+a:link {
+  color: black;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+footer,
+p {
+  color: white;
+}
